@@ -64,7 +64,7 @@ public class MainView {
     public MainView(){
         root = new ScrollPane();
         
-        root.setPannable(true);//permite scroll?
+        root.setPannable(false);//permite scroll?
         
         //Botones de capa 1 inicializacion
         btnAreaWeb = Utils.boton("DESARROLLO WEB", "fas-laptop-code","icono-generico");
