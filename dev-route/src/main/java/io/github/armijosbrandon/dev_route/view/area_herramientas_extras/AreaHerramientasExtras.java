@@ -61,7 +61,7 @@ public class AreaHerramientasExtras extends VBox{
     	// Inicializacion del contenido explicativo detallado
     	scrollInfo1 = crearContenidoInformativo(
     		    "Git / GitHub\n",
-    		    "• Qué aprender: Control de versiones local (commits, log, checkout), ramificación (branches), resolución limpia de conflictos de código, peticiones de integración (Pull Requests) y publicación de proyectos en la nube.\n• Herramientas clave: Git CLI y GitHub."
+    		    "• Qué aprender: Control de versiones local (commits, log, checkout),ramificación (branches), resolución limpia de conflictos de código,peticiones de integración (Pull Requests) y publicación de proyectos en la nube.\n• Herramientas clave: Git CLI y GitHub."
 		);
     	scrollInfo2 = crearContenidoInformativo(
 		    "Docker\n",
@@ -132,6 +132,8 @@ public class AreaHerramientasExtras extends VBox{
     private ScrollPane formatearScroll(TextFlow contenido) {
         ScrollPane scroll = new ScrollPane(contenido);
         scroll.setFitToWidth(true); //ajusta tu contenido a tu tamaño
+
+        scroll.setMaxWidth(400);
         return scroll;
     }
     
