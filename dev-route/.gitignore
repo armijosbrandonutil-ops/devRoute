@@ -1,0 +1,13 @@
+/target/
+git rm --cached .classpath
+git rm --cached .project
+git rm --cached -r .settings
+
+//--IDES
+git rm --cached -r .idea
+git rm --cached *.iml
+git rm --cached -r .vscode
+
+//BASE DE DATOS
+
+git rm --cached *.db

@@ -1,0 +1,11 @@
+Fondo de la Aplicación: #FFFFFF (Blanco puro) o #F8FAFC (Blanco grisáceo sutil).
+
+Contenedores / Tarjetas del Árbol: #FFFFFF con bordes muy suaves.
+
+Iconos Genéricos e Industriales: #64748B (Gris pizarra neutro).
+
+Líneas de conexión del Árbol (Ramas): #CBD5E1 (Gris claro).
+
+Texto Principal (TextFlow/Labels): #1E293B (Gris oscuro casi negro, mucho más legible y elegante que el negro puro).
+
+Texto Secundario (Comentarios/Rutas): #475569 (Gris medio).

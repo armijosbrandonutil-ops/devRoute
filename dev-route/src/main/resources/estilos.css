@@ -1,0 +1,102 @@
+/*--------------FONDO------------- */
+.root {
+    -fx-background-color: #F8FAFC; /* Fondo blanco ligeramente roto */
+    -fx-font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+/* Líneas de conexión del árbol*/
+.rama-arbol {
+    -fx-stroke: #CBD5E1;
+    -fx-stroke-width: 2px;
+}
+
+/*--------------TEXTFLOW Y CONTENEDORES DE TEXTO------------- */
+/* 1. Quitamos bordes y fondos feos al ScrollPane automáticamente */
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-viewport-background-color: transparent; /* Hace que el fondo del scroll sea invisible */
+    -fx-border-color: transparent;
+}
+
+.text-flow {
+    -fx-background-color: transparent;
+    -fx-padding: 6px;
+}
+
+.text-flow > text {
+    -fx-fill: #1E293B; 
+    -fx-font-weight: bold;
+    -fx-font-family: "Segoe UI", sans-serif;
+}  -fx-font-style: italic;
+}
+
+/*--------------BOTONES------------- */
+.button {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #E2E8F0;
+    -fx-border-width: 1.5px;
+    -fx-border-radius: 12px;
+    -fx-background-radius: 12px;
+    -fx-pref-width: 380px;
+    -fx-padding: 18px 32px;
+    -fx-text-fill: #1E293B;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #F8FAFC;
+    -fx-border-color: #CBD5E1;
+    -fx-scale-x: 1.02;
+    -fx-scale-y: 1.02;
+}
+
+
+.boton-volver {
+    -fx-background-color: #3B82F6;
+    -fx-border-color: #2563EB;
+    -fx-border-width: 1px;
+    -fx-border-radius: 6px;
+    -fx-background-radius: 6px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-padding: 8px 16px;
+    -fx-cursor: hand;
+}
+
+.boton-volver:hover {
+    -fx-background-color: #2563EB;
+    -fx-border-color: #1D4ED8;
+}
+
+/*--------------ICONOS GENERICOS Y CON COLOR OGINAL------------- */
+.icono-generico {
+    -fx-icon-color: #64748B; /* Color gris pizarra unificado */
+    -fx-icon-size: 18px;
+}
+
+.logo-volver	{}
+
+/* Desarrollo Web */
+.logo-html5      { -fx-icon-color: #E34F26; } /* Naranja HTML5 */
+.logo-css3       { -fx-icon-color: #1572B6; } /* Azul CSS3 */
+.logo-js         { -fx-icon-color: #F7DF1E; } /* Amarillo JS */
+
+/* Ciencia de Datos */
+.logo-python     { -fx-icon-color: #3776AB; } /* Azul/Amarillo Python */
+
+/* Desarrollo Móvil */
+.logo-android    { -fx-icon-color: #3DDC84; } /* Verde Android */
+.logo-apple      { -fx-icon-color: #000000; } /* Negro/Gris Apple */
+.logo-cloud      { -fx-icon-color: #C7C4BF; } /* Celeste/Gris Cloud */
+.logo-react      { -fx-icon-color: #61DAFB; } /* Celeste React */
+
+/* Backend y Sistemas */
+.logo-java       { -fx-icon-color: #E34F26; } /* Azul Java */
+.logo-windows    { -fx-icon-color: #0078D4; } /* Azul C# / Windows */
+
+/* Herramientas Industriales */
+.logo-github     { -fx-icon-color: #24292E; } /* Negro Github */
+.logo-docker     { -fx-icon-color: #2496ED; } /* Azul Docker */
