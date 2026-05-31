@@ -5,7 +5,7 @@ DevRoute es una aplicación de escritorio interactiva desarrollada en JavaFX. Fu
 ## Vista General
 | Menú Principal | Herramientas Industriales |
 | :---: | :---: |
-| <img src="assets/vistas-generales/menu-principal.png" width="400"> | <img src="assets/vistas-generales/herramientas-industriales.png" width="400"> |
+| <img src="./assets/vistas-generales/menu-principal.png" width="400"> | <img src="assets/vistas-generales/herramientas-industriales.png" width="400"> |
 
 ## Galerías de Rutas
 
