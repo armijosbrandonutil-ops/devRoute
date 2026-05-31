@@ -5,29 +5,29 @@ DevRoute es una aplicación de escritorio interactiva desarrollada en JavaFX. Fu
 ## Vista General
 | Menú Principal | Herramientas Industriales |
 | :---: | :---: |
-| <img src="dev-route/assets/rama-backend/backend-menu-principal.png" width="400"> | <img src="assets/vistas-generales/herramientas-industriales.png" width="400"> |
+| <img src="dev-route/assets/vistas-generales/menu-principal.png" width="400"> | <img src="dev-route/assets/vistas-generales/herramientas-industriales.png" width="400"> |
 
 ## Galerías de Rutas
 
 ### Desarrollo Web
 | Menú Web | Sub-Rama A | Sub-Rama B | Sub-Rama C |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/rama-desarrollo-web/web-menu-principal.png" width="200"> | <img src="assets/rama-desarrollo-web/web-subrama-a-cimiento.png" width="200"> | <img src="assets/rama-desarrollo-web/web-subrama-b-evolucion.png" width="200"> | <img src="assets/rama-desarrollo-web/web-subrama-c-entorno.png" width="200"> |
+| <img src="dev-route/assets/rama-desarrollo-web/web-menu-principal.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-web/web-subrama-a-cimiento.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-web/web-subrama-b-evolucion.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-web/web-subrama-c-entorno.png" width="200"> |
 
 ### Desarrollo Backend
 | Menú Backend | Sub-Rama A | Sub-Rama B | Sub-Rama C |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/rama-backend/backend-menu-principal.png" width="200"> | <img src="assets/rama-backend/backend-subrama-a-core.png" width="200"> | <img src="assets/rama-backend/backend-subrama-b-frameworks.png" width="200"> | <img src="assets/rama-backend/backend-subrama-c-arquitectura.png" width="200"> |
+| <img src="dev-route/assets/rama-backend/backend-menu-principal.png" width="200"> | <img src="dev-route/assets/rama-backend/backend-subrama-a-core.png" width="200"> | <img src="dev-route/assets/rama-backend/backend-subrama-b-frameworks.png" width="200"> | <img src="dev-route/assets/rama-backend/backend-subrama-c-arquitectura.png" width="200"> |
 
 ### Ciencia de Datos
 | Menú Data | Sub-Rama A | Sub-Rama B | Sub-Rama C |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/rama-ciencia-datos/ciencia-datos-menu-principal.png" width="200"> | <img src="assets/rama-ciencia-datos/data-subrama-a-fundamentos.png" width="200"> | <img src="assets/rama-ciencia-datos/data-subrama-b-manipulacion.png" width="200"> | <img src="assets/rama-ciencia-datos/data-subrama-c-ia.png" width="200"> |
+| <img src="dev-route/assets/rama-ciencia-datos/ciencia-datos-menu-principal.png" width="200"> | <img src="dev-route/assets/rama-ciencia-datos/data-subrama-a-fundamentos.png" width="200"> | <img src="dev-route/assets/rama-ciencia-datos/data-subrama-b-manipulacion.png" width="200"> | <img src="dev-route/assets/rama-ciencia-datos/data-subrama-c-ia.png" width="200"> |
 
 ### Desarrollo Móvil
 | Menú Móvil | Sub-Rama A | Sub-Rama B | Sub-Rama C |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/rama-desarrollo-movil/movil-menu-principal.png" width="200"> | <img src="assets/rama-desarrollo-movil/mobile-subrama-a-dilema.png" width="200"> | <img src="assets/rama-desarrollo-movil/mobile-subrama-b-interfaces.png" width="200"> | <img src="assets/rama-desarrollo-movil/mobile-subrama-c-multiplataforma.png" width="200"> |
+| <img src="dev-route/assets/rama-desarrollo-movil/movil-menu-principal.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-movil/mobile-subrama-a-dilema.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-movil/mobile-subrama-b-interfaces.png" width="200"> | <img src="dev-route/assets/rama-desarrollo-movil/mobile-subrama-c-multiplataforma.png" width="200"> |
 
 ## ¿Cómo funciona? (Interactividad y Navegación)
 A diferencia de un documento estático, DevRoute está diseñado con una arquitectura de interfaz dinámica que permite al usuario explorar el conocimiento a través de niveles de profundidad:
